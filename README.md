@@ -8,8 +8,9 @@ I don't consider myself an **expert**—I’m an **enthusiast**, continuously le
 
 ### **What You'll Find Here**
 
+
+💡 **Blockchain & Smart Contracts** – Learning and experimenting with Web3 technologies like Stacks, Solidity, and Clarity. 
 🤝 **SAP** – Learning and experimenting with SAP technologies like Abap, RAP, and Odata.
-💡 **Blockchain & Smart Contracts** – Learning and experimenting with Web3 technologies like Stacks, Solidity, and Clarity.  
 ⚡ **Web Development** – Building full-stack applications with **Next.js, React, and Node.js**.  
 🔗 **Decentralized Applications (dApps)** – Exploring smart contracts and decentralized ecosystems.  
 🚀 **Side Projects & Experiments** – From small utility tools to blockchain-based games.  
