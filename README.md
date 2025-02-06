@@ -6,9 +6,9 @@ I don't consider myself an **expert**—I’m an **enthusiast**, continuously le
 
 ---
 
-### **What You'll Find Here**  
-🤝 **SAP** – Learning and experimenting with SAP technologies like Abap, RAP, and Odata.
+### **What You'll Find Here**
 
+🤝 **SAP** – Learning and experimenting with SAP technologies like Abap, RAP, and Odata.
 💡 **Blockchain & Smart Contracts** – Learning and experimenting with Web3 technologies like Stacks, Solidity, and Clarity.  
 ⚡ **Web Development** – Building full-stack applications with **Next.js, React, and Node.js**.  
 🔗 **Decentralized Applications (dApps)** – Exploring smart contracts and decentralized ecosystems.  
