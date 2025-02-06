@@ -15,11 +15,11 @@ I don't consider myself an **expert**—I’m an **enthusiast**, continuously le
 ---
 
 ### **My Tech Stack**  
-- **Languages**: JavaScript, TypeScript, Solidity, Clarity  
-- **Frontend**: React.js, Next.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
+- **Languages**: JavaScript, TypeScript, Solidity, Clarity, Abap, RAP  
+- **Frontend**: React.js, Next.js, Tailwind CSS, Fiori 
+- **Backend**: Node.js, Express.js, Abap OO  
 - **Blockchain**: Stacks, Ethereum, Smart Contracts  
-- **Tools & DevOps**: Git, Vercel, Hardhat, Clarinet  
+- **Tools & DevOps**: Git, Vercel, Hardhat, Clarinet, Odata Service  
 
 ---
 
