@@ -1,7 +1,7 @@
 # **Welcome to My GitHub 👋**  
 
 ### **About Me**  
-Hi, I'm Naj, a self-taught developer with a Master’s degree in Business Economics. Though my academic background is in economics, my passion for Web3 and software development has led me to explore and learn independently, diving into blockchain, smart contracts, and decentralized applications.
+Hi, I'm Naj, a self-taught developer with a double Master’s degree in Business Economics and Actuarial Sciences. Though my academic background is in economics, my passion for Web3 and software development has led me to explore and learn independently, diving into blockchain, smart contracts, and decentralized applications.
 I don't consider myself an **expert**—I’m an **enthusiast**, continuously learning and building. This **GitHub page** is my **programming journey**, where I document my progress, experiments, and projects as I grow in the Web3 and development space.  
 
 ---
